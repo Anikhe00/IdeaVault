@@ -209,9 +209,6 @@
   overflow: hidden;
   text-overflow: ellipsis;
   max-height: calc(var(--body-lh) * 3); 
-  /* display: -webkit-box;
-  -webkit-line-clamp: 3; 
-  -webkit-box-orient: vertical; */
   font-size: var(--body-fs);
   font-weight: var(--body-fw);
   line-height: var(--body-lh);
